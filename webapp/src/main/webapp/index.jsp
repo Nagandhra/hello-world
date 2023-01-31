@@ -1,1 +1,9 @@
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+
+</body>
+</html>
+
